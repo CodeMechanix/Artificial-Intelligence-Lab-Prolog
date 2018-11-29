@@ -1,0 +1,12 @@
+isnumber(0).
+isnumber(s(X)):-isnumber(X).
+isequal(X,X):-isnumber(X).
+isequal(s(X),s(Y)):-isequal(X,Y).
+lessthanequal(0,X):-isnumber(X).
+lessthanequal(s(X),s(Y)):-lessthanequal(X,Y).
+even(0).
+even(s(s(X))):-even(X).
+,Y,Z).
+time(0,X,0):-isnumadd(0,X,X):-isnumber(X).
+add(s(X),Y,s(Z)):-add(Xber(X).
+time(X,s(Y),S(Z)):-time(X,Y,Z).
