@@ -11,7 +11,7 @@ female(liz).
 female(ann).
 female(pat).
 male(tom).
-male(bob).
+male(bob). 
 male(joe).
 male(jim).
 child(X,Y):-parent(X,Y).
